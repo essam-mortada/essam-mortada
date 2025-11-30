@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelance projects<br>👯 I’m looking to collaborate on back-end and fullstack web projects<br>🤝 I’m looking for help with incresaing my skills<br>🌱 I’m currently learning advanced topics in laravel<br>
+🔭 I’m currently working on Fullstack and AI automation projects<br>👯 I’m looking to collaborate on back-end and fullstack web projects<br>🤝 I’m looking for help with incresaing my skills<br>🌱 I’m currently learning advanced topics in laravel<br>
 
 
 ## 🌐 Socials:
